@@ -1,7 +1,9 @@
 from selenium import webdriver
 from time import sleep
 from login_details import email, password
-from selenium.webdriver.common.keys import Keys
+
+email = '<Your Email>'
+password = '<Your Password>'
 
 browser = webdriver.Chrome()
 

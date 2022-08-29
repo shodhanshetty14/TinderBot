@@ -1,6 +1,6 @@
 from selenium import webdriver
 from time import sleep
-from login_details import email, password
+
 
 email = '<Your Email>'
 password = '<Your Password>'
